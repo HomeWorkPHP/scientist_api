@@ -1,0 +1,13 @@
+{
+  "name": "scientist_api",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Xây dựng hệ thống quản lý nhà khoa học và công trình nghiên cứu trường Đại học Điện Lực",
+  "main": "src/app.js",
+  "author": "DoanDavid",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
